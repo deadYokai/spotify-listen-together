@@ -1,6 +1,8 @@
 # Spotify Listen Together
-## ⚠️ Not working anymore ⚠️ 
-I'm not using Spotify anymore so I have no real motivation to continue maintaining this project.
+## ~~⚠️ Not working anymore ⚠️ ~~
+~~I'm not using Spotify anymore so I have no real motivation to continue maintaining this project.~~
+
+I'm trying to reborn this
 
 <br/>
 <br/>
